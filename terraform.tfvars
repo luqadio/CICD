@@ -1,0 +1,2 @@
+dockerhub_credentials = "arn:aws:secretsmanager:eu-north-1:282932896800:secret:terraformSecret-Esz4IZ"
+codestar_connector_credentials =  "arn:aws:codestar-connections:eu-north-1:282932896800:connection/f852f5a3-3f0b-4462-a726-9fa8511b8a8d"
